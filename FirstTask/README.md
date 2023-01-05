@@ -6,7 +6,8 @@ Write the first text ("Hello,World") in the Xcode program using the Swift langua
 Second point !
 Describe three types of text :
 1) TitleText (simple style); 
-2) SubtitleText (using a different text font); 3) BannerText (add a banner line to the main text on the entire field of the page from the left edge to the right)
+2) SubtitleText (using a different text font); 
+3) 3) BannerText (add a banner line to the main text on the entire field of the page from the left edge to the right)
 
 ---
 ### 📍My results :
